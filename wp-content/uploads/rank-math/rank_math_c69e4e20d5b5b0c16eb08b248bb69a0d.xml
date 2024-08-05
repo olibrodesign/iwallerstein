@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//astra.olibro.dev/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://astra.olibro.dev/post-sitemap.xml</loc>
+		<lastmod>2024-05-31T01:31:10+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://astra.olibro.dev/category-sitemap.xml</loc>
+		<lastmod>2024-05-31T01:31:10+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>https://astra.olibro.dev/local-sitemap.xml</loc>
+		<lastmod>2024-07-30T15:30:26+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
